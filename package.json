@@ -1,6 +1,6 @@
 {
   "name": "start-aavits",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A starter for any custom project of mine",
   "type": "module",
   "main": "index.js",
