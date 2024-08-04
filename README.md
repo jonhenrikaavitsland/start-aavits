@@ -1,15 +1,23 @@
 # This is a environment set up for my future projects
 
+## Environment has been configured with:
+
+- Vite: bundler
+- TailwindCSS
+- Prettier
+- Eslint
+- Jest
+- Cypress
+
+
 ## Steps:
 
 1. Rename gitignore to .gitignore
 
 2. Drag files from within the start-aavits folder into your project folder root.
 
-3. Create a .github folder and move workflows folder inside.
+3. npm i
 
-4. npm i
+4. npx mrm@2 lint-staged 
 
-5. npx mrm@2 lint-staged 
-
-6. The project is now ready to work, vite and tailwind installed.
+5. The environment is now ready.
